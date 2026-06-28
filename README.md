@@ -35,7 +35,7 @@ src/
 │
 ├── assets/
 │
-├── components/
+├── sections/
 │   ├── Header.tsx
 │   ├── Hero.tsx
 │   ├── LogoTicker.tsx
